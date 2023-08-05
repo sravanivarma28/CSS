@@ -1,0 +1,7 @@
+.menu-example li{ list-style-type:none;display:inline-block;margin:30px
+font-size:30px;}
+
+a{text-decoration:none; }
+
+ul{background-color:green;}
+.active{background-color:red;}

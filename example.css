@@ -1,0 +1,6 @@
+h1{color:green;background-color:cyan;text-align:center;}
+p{color:blue;}
+.one{color:red;background-color:yellow;text-align:center;
+border-top:3px green solid;}
+#idtwo{color:grey;background-color:violet;text-align:center;
+border-top:5px dashed grey;color:blue}
